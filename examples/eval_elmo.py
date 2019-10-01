@@ -20,8 +20,8 @@ import code
 PATH_TO_ENTEVAL = '..'
 PATH_TO_DATA = '../data'
 
-MINGDA_ELMO_PATH="/share/data/speech/mingda/data/for-yang/models/elmo"
-sys.path.insert(0, MINGDA_ELMO_PATH)
+ELMO_PATH="entelmo"
+sys.path.insert(0, ELMO_PATH)
 from elmo import Elmo, batch_to_ids
 # Dump: elmo_dump.hdf5
 # Options: options.json
