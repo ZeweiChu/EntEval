@@ -1,0 +1,11 @@
+Deprecated cache directory found (/home-nfs/zeweichu/.allennlp/datasets).  Please remove this directory from your system to free up space.
+09/30/2019 23:31:46 - INFO - elmo -   Initializing ELMo
+09/30/2019 23:31:53 - INFO - root -   PROGRESS (encoding): 0.00%
+09/30/2019 23:34:38 - INFO - root -   PROGRESS (encoding): 0.00%
+09/30/2019 23:37:16 - INFO - root -   PROGRESS (encoding): 0.00%
+09/30/2019 23:39:55 - INFO - root -   Training pytorch-MLP-nhid0-adam-bs64 with standard validation..
+09/30/2019 23:39:56 - INFO - root -   [('reg:1e-09', 77.17)]
+09/30/2019 23:39:56 - INFO - root -   Validation : best param found is reg = 1e-09 with score             77.17
+09/30/2019 23:39:56 - INFO - root -   Evaluating...
+09/30/2019 23:39:57 - INFO - root -   start predicting on test
+09/30/2019 23:39:58 - INFO - root -   PROGRESS (encoding): 0.00%

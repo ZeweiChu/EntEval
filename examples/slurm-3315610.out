@@ -1,0 +1,8 @@
+Deprecated cache directory found (/home-nfs/zeweichu/.allennlp/datasets).  Please remove this directory from your system to free up space.
+09/30/2019 22:59:51 - INFO - elmo -   Initializing ELMo
+09/30/2019 23:00:00 - INFO - root -   Computing embedding for train
+09/30/2019 23:01:19 - INFO - root -   Computed train embeddings
+09/30/2019 23:01:19 - INFO - root -   Computing embedding for dev
+09/30/2019 23:02:38 - INFO - root -   Computed dev embeddings
+09/30/2019 23:02:38 - INFO - root -   Computing embedding for test
+09/30/2019 23:03:57 - INFO - root -   Computed test embeddings

@@ -1,0 +1,5 @@
+Deprecated cache directory found (/home-nfs/zeweichu/.allennlp/datasets).  Please remove this directory from your system to free up space.
+09/30/2019 23:20:56 - INFO - elmo -   Initializing ELMo
+THCudaCheck FAIL file=/pytorch/aten/src/THC/THCGeneral.cpp line=405 error=11 : invalid argument
+09/30/2019 23:21:15 - INFO - root -   PROGRESS (encoding): 0.00%
+09/30/2019 23:38:29 - INFO - root -   PROGRESS (encoding): 0.00%
