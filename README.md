@@ -14,6 +14,7 @@ Evaluation example code (You will need to set the elmo path)
 ```
 example/eval_elmo.py
 ```
+Note that in this evaluation script, we evaluate per layer ELMo and averaged ELMo layers, different from the paper impelementation. In the paper, the weights of each layer is trained as model parameters. 
 
 The code is tested under the following environment/versions:
 - Python 3.6.2
