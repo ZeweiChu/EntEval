@@ -26,8 +26,8 @@ from elmo import Elmo, batch_to_ids
 # Dump: elmo_dump.hdf5
 # Options: options.json
 # Code: elmo.py
-options_file = os.path.join(MINGDA_ELMO_PATH, "options.json")
-weight_file = os.path.join(MINGDA_ELMO_PATH, "elmo_dump.hdf5")
+options_file = os.path.join(ELMO_PATH, "options.json")
+weight_file = os.path.join(ELMO_PATH, "elmo_dump.hdf5")
 
 
 # import EntEval
