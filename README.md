@@ -23,6 +23,13 @@ The code is tested under the following environment/versions:
 
 Some code in this repo is adopted from [SentEval](https://github.com/facebookresearch/SentEval). 
 
+#### Pretraining
+
+The pretraining WikiEnt data can be downloaded from 
+[https://drive.google.com/drive/folders/1q3csyFdSQNiN6dMK19ahrmHQwijBAY38?usp=sharing](https://drive.google.com/drive/folders/1q3csyFdSQNiN6dMK19ahrmHQwijBAY38?usp=sharing)
+v1 is the version we used in the paper, v2 is the updated version
+
+
 ## Reference
 
 ```
