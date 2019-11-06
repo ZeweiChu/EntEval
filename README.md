@@ -31,6 +31,7 @@ v1 is the version we used in the paper, v2 is the updated version
 
 ## Experiments
 Our experiment results are as follows:
+
 ||CAP                          |CERP  |EFP                                          |ET  |ESR |ER  |ED  |Average|
 |------|-----------------------------|------|---------------------------------------------|----|----|----|----|-------|
 |GloVe |71.9                         |52.6  |67.0                                         |10.3|50.9|40.8|41.2|47.8   |
